@@ -16,8 +16,8 @@
   <td >运行方法
   </td>
   <td >
-  bin/hadoop jar FFT.jar ${inputPath} ${outputPath}
-如：bin/hadoop jar FFT.jar /input /output
+ <p> bin/hadoop jar FFT.jar ${inputPath} ${outputPath}</p>
+<p>如：bin/hadoop jar FFT.jar /input /output</p>
 
   </td>
  </tr>
